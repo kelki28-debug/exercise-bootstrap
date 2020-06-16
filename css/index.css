@@ -49,4 +49,17 @@ body{
     .img-footer{
         margin:0;
     }
+    .offer{
+        font-size: 15px;
+    }
+    .h1-footer{
+        font-size: 15px;
+    }
+    .items{
+        font-size: 10px;
+    }
+    .h1-move{
+        margin:0;
+        font-size: 20px;
+    }
 }
